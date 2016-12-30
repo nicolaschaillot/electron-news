@@ -1,29 +1,28 @@
 {
-  "name": "electron-es6-react-bootstrap",
-  "version": "1.0.0",
-  "description": "A minimal Electron application, es6 and react",
+  "name": "K News",
+  "version": "0.0.1",
+  "description": "K News mockup with react and electron",
   "main": "bootstraper.js",
   "scripts": {
     "start": "electron bootstraper.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/maxmert/electron-es6-react-bootstrap.git"
+    "url": "git+https://github.com/nicolaschaillot/electron-news.git"
   },
   "keywords": [
     "Electron",
-    "quick",
-    "start",
+    "News",
+    "react",
     "es6",
-    "boilerplate",
-    "tutorial"
+    "boilerplate"
   ],
-  "author": "maxmert",
+  "author": "nicolas.chaillot@keendoo.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/maxmert/electron-es6-react-bootstrap/issues"
+    "url": "https://github.com/nicolaschaillot/electron-news/issues"
   },
-  "homepage": "https://github.com/maxmert/electron-es6-react-bootstrap#readme",
+  "homepage": "https://github.com/nicolaschaillot/electron-news#readme",
   "devDependencies": {
     "electron-prebuilt": "^0.34.0"
   },
