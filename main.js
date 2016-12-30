@@ -1,6 +1,3 @@
-//import app from 'app';
-//import { BrowserWindow, ipcMain as ipc } from 'electron';
-
 const electron = require('electron')
 // Module to control application life.
 const app = electron.app
