@@ -1,5 +1,5 @@
 {
-  "name": "K News",
+  "name": "kNews",
   "version": "0.0.1",
   "description": "K News mockup with react and electron",
   "main": "bootstraper.js",
@@ -24,7 +24,9 @@
   },
   "homepage": "https://github.com/nicolaschaillot/electron-news#readme",
   "devDependencies": {
-    "electron-prebuilt": "^0.34.0"
+    "electron-prebuilt": "^0.34.0",
+    "eslint": "^3.12.2",
+    "eslint-plugin-react": "^6.8.0"
   },
   "dependencies": {
     "babel": "^5.8.29",
