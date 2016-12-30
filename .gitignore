@@ -25,3 +25,7 @@
 # Static builded stuff #
 ########################
 /dest
+
+# Secret #
+##########
+secrets.json
